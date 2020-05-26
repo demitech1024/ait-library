@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/home/demitech1024/CodingProjects/Java/APCSA/endOfYearProjects/AITLibrary/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1904060638.index
+1577600568.index
+4152130808.index
+523624544.index
+3448789001.index
+2272380462.index
+3976466552.index
